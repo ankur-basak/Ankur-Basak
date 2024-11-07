@@ -5,7 +5,7 @@ I'm a beginner C++ and Java developer. I'm learning and working on it. I give my
 Skills: C++
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning C++ and java
+- 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me: Email, LinkedIn 
 
 
